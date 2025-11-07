@@ -45,8 +45,8 @@ Serve para **armazenar e compartilhar código** com outras pessoas.
 
 #### 📤 Enviar alterações do local para o remoto:
 ```bash
-git push
-git pull
+git push   # Envia do local para o remoto
+git pull   # Baixa do remoto para o local
 ```
 ## 2️⃣ Comandos Básicos do Git
 
@@ -126,14 +126,12 @@ feat: adicionar botão de login na tela inicial
 
 
 
-## 4️⃣ Clonar um Repositório Existente
+##  Clonar um Repositório Existente
 
 
 
 
-Use este comando para baixar uma cópia completa de um repositório remoto para sua máquina:
-
-
+Baixe uma cópia completa do repositório remoto para sua máquina:
 
 
 ```bash
@@ -142,16 +140,21 @@ git clone https://github.com/LucasEpifanio1/repositorio1.git
 
 logo em seguida, localiza aonde está a pasta "repositorio1" e abra ela no vscode.
 
-Depois da um cd:
+Depois, entre na pasta clonada:
 
 
 ```bash
 cd repositorio1
+
 ````
-e segue com as linhas de comando
+```bash
+code .
+````
+#Primeiro Commit (Exemplo Prático)
 
 
 ```bash
+git add README.md
 git add .
 git commit -m "Minha alteração - de acordo com conventional Commits"
 git push origin main
