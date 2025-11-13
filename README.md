@@ -6,13 +6,6 @@
 - 6. Fazer um primeiro commits alterando o readme.md, com
  base no conventional commits
 
-
-
-
-
-
-
-
 ## 1️⃣ Repositórios: Local e Remoto
 
 
