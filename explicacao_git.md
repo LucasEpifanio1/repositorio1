@@ -13,10 +13,14 @@ git push origem main
 
 5 - depois linquei os documentos, em a na pasta README.MD
 
-6 -  e pr umltimo o que é o git Local e remoto? 
+6 -  e pro ultimo o que é o git Local e remoto? 
 | Tipo                      | Onde fica                                    | Exemplo                                                 |
 | ------------------------- | -------------------------------------------- | ------------------------------------------------------- |
 | 🖥️ **Repositório local** | No **seu computador**                        | Pasta do seu projeto (ex: `C:\Users\Lucas\Pro-Esporte`) |
 | ☁️ **Repositório remoto** | Na **nuvem** (ex: GitHub, GitLab, Bitbucket) | `https://github.com/LucasEpifanio1/Pro-Esporte.git`     |
 
 
+7 - comandos usados
+git add.
+git commits -m "coreções"
+git push origem main
