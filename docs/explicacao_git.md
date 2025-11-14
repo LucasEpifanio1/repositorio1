@@ -126,8 +126,4 @@ git commit -m "Minha alteração - de acordo com conventional Commits"
 git push origin main
 ````
 
-# Arquivos de estudo
-[Compromissos Convencionais 1.0.0](./conventional_commits.md)
 
-
-[Explicação](explicacao_git.md)

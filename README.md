@@ -23,3 +23,9 @@ git push origem main
 5 - depois linquei os documentos, em a na pasta README.MD
 
 
+# Arquivos de estudo
+[Compromissos Convencionais 1.0.0](./docs/conventional_commits.md)
+
+
+[Explicação](./docs/explicacao_git.md)
+
