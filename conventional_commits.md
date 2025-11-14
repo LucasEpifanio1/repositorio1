@@ -1,6 +1,6 @@
-# Compromissos Convencionais 1.0.0
+# Convencionais  commits 1.0.0
 
-Pelo que eu entendi, o  **_Compromissos Convencionais 1.0.0_** é uma forma pradronizada de escrever mensagens de commit no git:
+Pelo que eu entendi, o  **_Convencionais  commits 1.0.0_** é uma forma pradronizada de escrever mensagens de commit no git:
 cada commit segue uma seguinte estrutura.
 
 ### Estrutura da mensagem de commit
