@@ -1,0 +1,1 @@
+console.log("Aplicação rodando em modo de produção!");
