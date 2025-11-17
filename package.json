@@ -1,13 +1,14 @@
 {
   "name": "repositorio1",
   "version": "1.0.0",
-  "description": "- 1.O que é um repositório local?1.1 E o remoto?\r - 2. Fazer a lista de comandos básicos de git.\r - 3. Criar um repositório.\r - 4. Clonar o repositório.\r - 5. O que é convencional commits.\r - 6. Fazer um primeiro commits alterando o readme.md, com\r  base no conventional commits",
+  "description": "",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "prd": "node server.js"
   },
   "keywords": [],
   "author": "",
