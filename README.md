@@ -24,8 +24,7 @@ git push origem main
 
 
 # Arquivos de estudo
-[Compromissos Convencionais 1.0.0](./docs/conventional_commits.md)
-
-
-[Explicação](./docs/explicacao_git.md)
+ - [Compromissos Convencionais 1.0.0](./docs/conventional_commits.md)
+ - [Explicação](./docs/explicacao_git.md)
+ - [Node.js](./docs/node_npm_respostas.md)
 
