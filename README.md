@@ -25,11 +25,14 @@ git push origem main
 ### Relátorio refente ao Express.
 1 - Primeiro eu criei o arquivo express_reposta e comecei a reposnder as perguntas de acordo com as numerações depois de termina de um commits, para finalizar a tarefa.
 2 - na configuração do projeto realizei do o processo de acordo, com as instrução passada.
-3 -
-
+3 - realizei o passado a passo criei o post e get de acordo com o padrão solicitado
+4 - ![alt text](image.png)
+utilizei o Thunder Client do VS Code, para testar a rota.
+5 - link o readm.md
 
 # Arquivos de estudo
  - [Compromissos Convencionais 1.0.0](./docs/conventional_commits.md)
  - [Explicação](./docs/explicacao_git.md)
  - [Node.js](./docs/node_npm_respostas.md)
+ - [express](./docs/express_resposta.md)
 
