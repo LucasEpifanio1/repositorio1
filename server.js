@@ -1,1 +1,3 @@
-console.log("Aplicação rodando em modo de produção!");
+const express = require('express');
+const app = express();
+app.listen(3333, () => console.log('🔥 servidor está funcionando'));
